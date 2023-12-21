@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2da84af7.css",
+    "main.js": "/static/js/main.950b2934.js",
+    "static/media/mwallet.png": "/static/media/mwallet.056afd6b450d5bbf111d.png",
+    "static/media/chotaLogo.png": "/static/media/chotaLogo.0be6658313e7123cc3ad.png",
+    "static/media/noImg.png": "/static/media/noImg.c8524b4819bc2c88e490.png",
+    "index.html": "/index.html",
+    "main.2da84af7.css.map": "/static/css/main.2da84af7.css.map",
+    "main.950b2934.js.map": "/static/js/main.950b2934.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2da84af7.css",
+    "static/js/main.950b2934.js"
+  ]
+}
